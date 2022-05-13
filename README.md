@@ -1,2 +1,2 @@
 # KaggleNotebooks
-Kaggle Notebooks
+Machine Learning and Neural Network notebooks
